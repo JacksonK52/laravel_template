@@ -1,6 +1,6 @@
 window._ = require('lodash');
 
-try {
+try {zz
     require('bootstrap');
 } catch (e) {}
 
